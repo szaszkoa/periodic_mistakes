@@ -1,0 +1,5 @@
+.periodic-table-container {
+    display: grid;
+    grid-column: 18;
+    grid-row: 10;
+}
